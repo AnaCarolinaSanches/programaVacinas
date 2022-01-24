@@ -1,0 +1,16 @@
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ProgramaVacinas.exe
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ProgramaVacinas.deps.json
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ProgramaVacinas.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ProgramaVacinas.runtimeconfig.dev.json
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ProgramaVacinas.dll
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ref\ProgramaVacinas.dll
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\bin\Debug\net5.0\ProgramaVacinas.pdb
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.dll
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ref\ProgramaVacinas.dll
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.pdb
+C:\Users\carol\OneDrive\Documentos\CSharp\ProgramaVacinas\obj\Debug\net5.0\ProgramaVacinas.genruntimeconfig.cache
